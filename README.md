@@ -1,1 +1,1 @@
-# Java-learn
+# Java stuff for SDP course
